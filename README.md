@@ -8,14 +8,14 @@
   <img src="https://komarev.com/ghpvc/?username=Mickael22S&color=blue&style=flat-square" alt="visitas" />
 </p>
 
-## 🚀 Sobre mim
+## Sobre mim
 
-- 🎯 Foco em UX, documentação de design e apresentações
-- 🤖 Estudando tecnologia e inteligência artificial
-- 🌱 Sempre construindo projetos novos
+- Foco em UX, documentação de design e apresentações
+- Estudando tecnologia e inteligência artificial
+- Sempre construindo projetos novos
 - 🇧🇷 Brasil
 
-## 🛠️ Linguagens
+## Linguagens
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,c" alt="linguagens" />
